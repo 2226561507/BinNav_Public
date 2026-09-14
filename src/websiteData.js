@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/9/14 18:23:19
+// 网站数据 - 通过管理后台更新于 2026/9/14 18:23:30
 
 // 站点配置
 export const siteConfig = {
@@ -16,10 +16,10 @@ export const websiteData = [
     "id": 1789381161218,
     "name": "烟雨",
     "description": "",
-    "url": "111",
+    "url": "https://dh.99yu.top/admin",
     "category": "author",
     "tags": [],
-    "icon": "/assets/logo.png"
+    "icon": "https://icon.nbvil.com/favicon?url=dh.99yu.top"
   },
   {
     "id": 1789381396449,
