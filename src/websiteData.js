@@ -1,8 +1,8 @@
-// 网站数据 - 通过管理后台更新于 2026/9/14 18:22:41
+// 网站数据 - 通过管理后台更新于 2026/9/14 18:22:52
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "烟雨自用导航",
+  "siteName": "烟雨自用",
   "siteTitle": "烟雨自用导航",
   "siteLogo": "/assets/logo.png",
   "siteDescription": "二进制导航页面，精选优质站点",
