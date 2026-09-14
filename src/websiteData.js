@@ -1,9 +1,9 @@
-// 网站数据 - 通过管理后台更新于 2026/9/14 18:02:43
+// 网站数据 - 通过管理后台更新于 2026/9/14 18:18:41
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "BinNav",
-  "siteTitle": "BinNav - 导航",
+  "siteName": "烟雨自用导航",
+  "siteTitle": "烟雨自用导航",
   "siteLogo": "/assets/logo.png",
   "siteDescription": "二进制导航页面，精选优质站点",
   "icpRecord": "",
@@ -11,17 +11,7 @@ export const siteConfig = {
   "publicSecurityRecordUrl": ""
 };
 
-export const websiteData = [
-  {
-    "id": 1789380160138,
-    "name": "ceshi",
-    "description": "2321312321",
-    "url": "1123213",
-    "category": "author",
-    "tags": [],
-    "icon": "/assets/logo.png"
-  }
-];
+export const websiteData = [];
 
 // 分类定义 - 支持二级分类
 export const categories = [
