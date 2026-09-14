@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/9/14 18:22:52
+// 网站数据 - 通过管理后台更新于 2026/9/14 18:23:19
 
 // 站点配置
 export const siteConfig = {
@@ -20,6 +20,15 @@ export const websiteData = [
     "category": "author",
     "tags": [],
     "icon": "/assets/logo.png"
+  },
+  {
+    "id": 1789381396449,
+    "name": "导航",
+    "description": "",
+    "url": "https://dh.99yu.top/admin",
+    "category": "author",
+    "tags": [],
+    "icon": "https://icon.nbvil.com/favicon?url=dh.99yu.top"
   }
 ];
 
