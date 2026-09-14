@@ -1,9 +1,9 @@
-// 网站数据 - 通过管理后台更新于 2026/9/14 17:42:38
+// 网站数据 - 通过管理后台更新于 2026/9/14 18:02:28
 
 // 站点配置
 export const siteConfig = {
-  "siteName": "烟雨导航页",
-  "siteTitle": "自用导航页",
+  "siteName": "BinNav",
+  "siteTitle": "BinNav - 导航",
   "siteLogo": "/assets/logo.png",
   "siteDescription": "二进制导航页面，精选优质站点",
   "icpRecord": "",
