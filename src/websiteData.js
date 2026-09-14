@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2026/9/14 18:18:41
+// 网站数据 - 通过管理后台更新于 2026/9/14 18:19:22
 
 // 站点配置
 export const siteConfig = {
@@ -11,7 +11,17 @@ export const siteConfig = {
   "publicSecurityRecordUrl": ""
 };
 
-export const websiteData = [];
+export const websiteData = [
+  {
+    "id": 1789381161218,
+    "name": "烟雨",
+    "description": "",
+    "url": "111",
+    "category": "author",
+    "tags": [],
+    "icon": "/assets/logo.png"
+  }
+];
 
 // 分类定义 - 支持二级分类
 export const categories = [
